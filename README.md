@@ -68,4 +68,4 @@ Additionally, if you don’t have access to Kafka, you can use the **JSON-based 
 ## Conclusion
 This repo provides a **simple yet effective demonstration** of using **Kafka and Delta Lake in Databricks** following the **Medallion Architecture**. Feel free to experiment and extend the pipelines for your own **streaming analytics and data engineering use cases**.
 
-Happy Streaming! 🚀
+Happy Learning! 
